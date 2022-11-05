@@ -11,9 +11,14 @@
 
 - 🌱 I’m currently learning **Data Structures and Algorithms & Node.JS**
 
+- 👨‍💻 Portfolio [Portfolio](https://sudarshan441.github.io/)
+
 - 💬 Ask me about **JavaScript, React.js, Node.js and MongoDB**
 
 - 📫 How to reach me **sudarshanpujari6@gmail.com**
+
+-  📄 Resume [Resume](https://drive.google.com/file/d/1YB2mGovAecyTWdLyriZ20sM_coAT9N_W/view?usp=share_link)
+
 
 - ⚡ Fun fact **DSA is addictive.**
 
